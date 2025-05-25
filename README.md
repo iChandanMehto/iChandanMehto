@@ -3,6 +3,8 @@
 I’m currently deep-diving into **Data Structures & Algorithms (DSA)** using **C++**, sharpening my problem-solving skills.  
 At the same time, I’ve built solid expertise in **JavaScript** and completed learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 
+
+
 💻 **What I’m Working On:**  
 - Practicing DSA regularly for better logic building  
 - Building full-stack projects with MERN stack  
@@ -18,9 +20,9 @@ At the same time, I’ve built solid expertise in **JavaScript** and completed l
 </a>
 
 
-<a href="https://x.com/ichandanmehto" target="_blank">
-<a href="https://cdnlogo.com/logo/x_135082.html"><img src="https://static.cdnlogo.com/logos/x/9/x.svg" width="30" alt="x"></a>
-</a>
+
+<a href="https://x.com/ichandanmehto" target="_blank"><img src="https://static.cdnlogo.com/logos/x/9/x.svg" width="30" alt="x"></a>
+
 
 
 ---
