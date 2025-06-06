@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono&size=24&pause=1000&color=00FF00&width=435&lines=Hey+!+Iam+Chandan;I+don't+know+what+I'm+doing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono&size=24&pause=1000&color=00FF00&width=435&lines=Hey++!+Iam++Chandan;Breaking+%26+Fixing+Stuff+)](https://git.io/typing-svg)
 
 
 #  About Me:
