@@ -1,17 +1,15 @@
-# 💫 About Me:
-👋 Hey, I'm Chandan  
-I’m currently deep-diving into **Data Structures & Algorithms (DSA)** using **C++**, sharpening my problem-solving skills.  
-At the same time, I’ve built solid expertise in **JavaScript** and completed learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono&size=24&pause=1000&color=00FF00&width=435&lines=Hey+!+Iam+Chandan;I+don't+know+what+I'm+doing)](https://git.io/typing-svg)
 
 
+#  About Me:
 
-💻 **What I’m Working On:**  
-- Practicing DSA regularly for better logic building  
-- Building full-stack projects with MERN stack  
-- Creating clean, responsive front-ends with React & Tailwind  
-- Exploring TypeScript and advanced backend concepts  
+Noob developer :( 
 
----
+Things i'm working on - Fixing and creating frontend & backend   
+For some reason i'm doing DSA.
+
+
 
 ## 🌐 Socials:
 
@@ -27,7 +25,7 @@ At the same time, I’ve built solid expertise in **JavaScript** and completed l
 
 
 
----
+
 
 # 💻 Tech Stack:
 
@@ -53,13 +51,17 @@ At the same time, I’ve built solid expertise in **JavaScript** and completed l
   </tr>
 </table>
 
----
+
 
 # 📊 GitHub Stats:
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=iChandanMehto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iChandanMehto&theme=blue_navy&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iChandanMehto&theme=blue_navy&hide_border=false&layout=compact" height="165" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iChandanMehto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=iChandanMehto&theme=blue_navy&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iChandanMehto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono&size=24&pause=1000&color=00FF00&multiline=true&width=435&lines=Try.+Fail.+Debug.+Win.)](https://git.io/typing-svg)
 
