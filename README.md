@@ -63,5 +63,5 @@ For some reason i'm doing DSA.
 
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono&size=24&pause=1000&color=00FF00&multiline=true&width=435&lines=Try.+Fail.+Debug.+Win.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono&pause=1000&color=00FF00&width=435&lines=Learn.+Try.+Fail.+Debug.+Win.)](https://git.io/typing-svg)
 
