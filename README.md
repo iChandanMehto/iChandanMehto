@@ -8,23 +8,6 @@
 Building apps !
 
 
-
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://linkedin.com/in/chandanmehto" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/ichandanmehto" target="_blank">
-    <img src="https://static.cdnlogo.com/logos/x/9/x.svg" width="30" alt="X" />
-  </a>
-</p>
-
-
-
-
-
 # 💻 Tech Stack:
 
 <table>
