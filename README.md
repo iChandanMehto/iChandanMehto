@@ -5,8 +5,7 @@
 #  About Me:
 
 
-Things i'm working on - Fixing and creating frontend & backend   
-For some reason i'm doing DSA.
+Building apps !
 
 
 
